@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/slam/mscvo_ws/src/MSC-VO-main/Examples/ROS/ORB_SLAM2/build/devel/setup.sh
