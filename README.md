@@ -6,6 +6,8 @@ MSC-VO is an modified version of MSC-VO(by Joan P. et.al) that leverages ROS for
 
 I'm working hard to enhance its performance.
 
+YouTube:  https://youtu.be/KYo-h3q5RTk
+
 # MSC-VO
 
 **Authors:** Joan P. Company-Corcoles, Emilio Garcia-Fidalgo and Alberto Ortiz
