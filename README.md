@@ -1,6 +1,6 @@
 # MSC-VO_ROS
 
-**Authors:** Jiahui Zhang
+**Author:** Jiahui Zhang
 
 MSC-VO is an modified version of MSC-VO(by Joan P. et.al) that leverages ROS for data transmition. It is helpful for real world experiment on mobile robot like turtlebot.
 I'm working hard to enhance its performance.
